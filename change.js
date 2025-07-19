@@ -1,1 +1,1 @@
-console.change('change1');
+console.change('change');
